@@ -9,14 +9,14 @@ Go to <b>Settings -> Processes and Container -> Container Monitoring</b>
 
 Download codebase from Git repository
 
-``` bash
-git clone https://github.com/Nodnarboen/k8s-workshop.git
+```bash
+git clone https://github.com/Dynatrace-APAC/Workshop-Kubernetes-AWS.git
 ```
 
 Install OneAgent Operator
 
 ``` bash
-./k8s-workshop/install-oneagent-operator.sh
+./k8s-workshop/install-oneagent-operator-workshop.sh
 ```
 Within the screen prompt, enter the following details:
 
