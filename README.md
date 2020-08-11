@@ -7,7 +7,6 @@ For the purposes of the Hands-On, we will automate and make the steps seamless f
 ## Prerequisites
 
 * Dynatrace SaaS/Managed Account. Get your free SaaS trial [here](https://www.dynatrace.com/trial/).
-* Google Cloud account with access to GKE. Get your free trial access [here](https://cloud.google.com/free/).
 * Chrome Browser
 
 ## Contents
