@@ -1,4 +1,3 @@
 #!/bin/bash
 
-kubectl apply -f manifests/sockshop-app/canary/
-
+kubectl apply -f ~/dtacmworkshop/manifests/sockshop-app/canary/
