@@ -1,4 +1,4 @@
-# Kubernetes (K8S) with Dynatrace on AWS
+# Kubernetes (K8S) with Dynatrace
 
 This repository contains labs for the Hands-On Kubernetes Session. We will be using AWS for this hands-on but this will work on other platforms as well. 
 
