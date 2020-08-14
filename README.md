@@ -10,9 +10,9 @@ For the purposes of the Hands-On, we will automate and make the steps seamless f
 * Chrome Browser
 
 ## What You'll Learn
-- [x] Deploying Dynatrace Operator via Helm Chart on Kubernetes
-- [x] Setup Kubernetes integration on Dynatrace
-- [x] Explore Automatic Kubernetes Dashboards
-- [x] Kubernetes Labels & Annotations
-- [x] Process Group Naming & Service Naming for Kubernetes
-- [x] Discover Kubernetes View on Dynatrace
+:heavy_check_mark: Deploying Dynatrace Operator via Helm Chart on Kubernetes
+:heavy_check_mark: Setup Kubernetes integration on Dynatrace
+:heavy_check_mark: Explore Automatic Kubernetes Dashboards
+:heavy_check_mark: Kubernetes Labels & Annotations
+:heavy_check_mark: Process Group Naming & Service Naming for Kubernetes
+:heavy_check_mark: Discover Kubernetes View on Dynatrace
