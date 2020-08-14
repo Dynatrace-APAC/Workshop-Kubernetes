@@ -16,3 +16,5 @@ For the purposes of the Hands-On, we will automate and make the steps seamless f
 :heavy_check_mark: Kubernetes Labels & Annotations<br>
 :heavy_check_mark: Process Group Naming & Service Naming for Kubernetes<br>
 :heavy_check_mark: Discover Kubernetes View on Dynatrace
+
+For the full labs, go to [Dynatrace Workshops](https://dynatrace-apac.github.io/workshops/kubernetes/index.html?index=..%2F..index)
